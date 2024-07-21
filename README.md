@@ -4,7 +4,7 @@
 
 # DESCRIPTION :
     -> Project Name : Wine-Quality-Prediction
-    -> This project uses the "RANDOM FOREST CLASSIFIER" for prediction of loan status
+    -> This project uses the "RANDOM FOREST CLASSIFIER" for prediction of wine quality
     
 # MODELS & LIBRARIES USED :
     The project in implemented in Python on Google Collab,
